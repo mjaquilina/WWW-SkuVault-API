@@ -21,6 +21,10 @@ JSON
 LWP::UserAgent
 Time::HiRes
 
+DISCLAIMER
+
+The author of this module is not affiliated with SkuVault. It is provided as a courtesy to other users of the SkuVault product.
+
 COPYRIGHT AND LICENSE
 
 Copyright (C) 2011 Michael Aquilina. All rights reserved.

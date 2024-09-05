@@ -1,5 +1,5 @@
 Changes
-lib/WWW/SkuVault.pm
+lib/WWW/SkuVault/API.pm
 Makefile.PL
 MANIFEST
 README
