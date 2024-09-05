@@ -1,0 +1,29 @@
+WWW::SkuVault::API
+====================
+
+This module provides an unofficial Perl interface to the SkuVault WMS API.
+
+INSTALLATION
+
+To install this module, type the following:
+
+perl Makefile.pl
+make
+make test
+make install
+
+DEPENDENCIES
+
+This module requires these other modules and libraries:
+
+HTTP::Request::Common>
+JSON
+LWP::UserAgent
+Time::HiRes
+
+COPYRIGHT AND LICENSE
+
+Copyright (C) 2011 Michael Aquilina. All rights reserved.
+
+This code is free software; you can redistribute it and/or modify it under the same terms as Perl itself.
+
